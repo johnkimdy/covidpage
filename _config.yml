@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Covid-19 Blogposts
+description: Covid19 data analysis done with Jupyter Notebook.
 github_username: johnkimdy
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpage"
+github_repo: "covidpage"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
