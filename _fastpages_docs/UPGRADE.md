@@ -5,7 +5,7 @@
 - [Automated Upgrade](#automated-upgrade)
     - [Step 1: Open An Issue With The Upgrade Template.](#step-1-open-an-issue-with-the-upgrade-template)
     - [Step 2: Click `Submit new issue`](#step-2-click-submit-new-issue)
-    - [Step 3: A Link to Pull Request Will Appear](#step-3-a-link-to-pull-request-will-appear)
+    - [Step 3: A Link to Pull Request Will Appaer](#step-3-a-link-to-pull-request-will-appaer)
     - [Step 4: Review & Merge PR](#step-4-review-merge-pr)
 - [Manual Upgrade](#manual-upgrade)
     - [Easy Way (Recommended)](#easy-way-recommended)
@@ -33,7 +33,7 @@ There are two ways to upgrade fastpages.  One is an automated way that assumes y
 
     ![](upgrade_step2.png)
 
-### Step 3: A Link to Pull Request Will Appear
+### Step 3: A Link to Pull Request Will Appaer
 
 - This issue will trigger GitHub to open a PR making changes to your repository for the upgrade to take palce.  A comment with the link to the PR will be made in the issue, and will look like this:
 
@@ -48,7 +48,7 @@ There are two ways to upgrade fastpages.  One is an automated way that assumes y
 
 ### Step 4: Review & Merge PR
 
-- Ensure that you read the instructions in the PR carefully.  Furthermore, carefully review which files will be changed to determine if this interferes with any customizations you have mades to your site.  When ready, select `Merge pull request`.  
+- Ensure that you read the instructions in the PR carefully.  Furthermore, carefully review which files will be changed to determine if this interferes with any customizations you have made to your site.  When ready, select `Merge pull request`.  
 - If the PR is making undesired changes to files you can use the manual upgrade approach instead.
 
 ## Manual Upgrade
